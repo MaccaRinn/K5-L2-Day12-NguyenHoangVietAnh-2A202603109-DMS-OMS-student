@@ -1,0 +1,6 @@
+﻿image,label,field,issue,mine,peer,verdict,guideline_rule,action
+S02_rgb.png,child_seat,occupied,Gia tri occupied=yes khong duoc phep,yes,,ambiguous,4.8,doi thanh unknown vi can canh nay khong duoc xac dinh ro trong export
+S02_ir.png,child_seat,occupied,Gia tri occupied=yes khong duoc phep,yes,,ambiguous,4.8,doi thanh unknown va giu dong thuoc tinh hop le
+S09_rgb.png,task,scope,Anh mo rong khong thuoc task chinh 22 anh,co trong export,,ambiguous,Guide Task 0,loai khoi export_final_v2.zip
+S09_ir.png,task,scope,Anh mo rong khong thuoc task chinh 22 anh,co trong export,,ambiguous,Guide Task 0,loai khoi export_final_v2.zip
+S10_rgb.png,task,scope,Anh mo rong khong thuoc task chinh 22 anh,co trong export,,ambiguous,Guide Task 0,loai khoi export_final_v2.zip
